@@ -1,0 +1,8 @@
+d2,d3,a3,g3-,d2,f#3,d3,g3
+c2,g3,d3,b2,g3,d3,g2,d3
+d2,d3,a3,g3-,d2,f#3,d3,g3
+c2,g3,d3,b2,g3,d3,g2,d3
+d2,d3,a3,g3-,d2,f#3,d3,g3
+c2,g3,d3,b2,g3,d3,g2,d3
+d2,d3,a3,g3-,d2,f#3,d3,g3
+c2,g3,d3,b2,g3,d3,g2,d3

@@ -1,0 +1,2 @@
+d3,d3,d3,g3-,r-,r,d4,r,r,c4,b3,a3,g4-,r,r,d4-,r,c4,b3,a3,g4-,r,r,d4-,r
+c4,b3,c4,a3-,r,r
